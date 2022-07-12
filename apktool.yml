@@ -1,0 +1,15 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: OP12Telephony.jar
+compressionType: false
+doNotCompress:
+- classes.dex
+isFrameworkApk: false
+packageInfo: null
+sdkInfo:
+  minSdkVersion: '28'
+sharedLibrary: false
+sparseResources: false
+unknownFiles: {}
+usesFramework: null
+version: 2.6.0
+versionInfo: null
